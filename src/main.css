@@ -49,14 +49,25 @@ background-color: black;
 .hr{
   color: #ffffff;
 }
-
 /* education */
-.dot{
+.dot {
   height: 40px;
   width: 40px;
   background-color: #FB0707;
   border-radius: 50%;
   display: inline-block;
+  position: relative;
+  z-index: 2;
+}
+.line {
+  position: absolute;
+  top: 20px; 
+  left: 50%;
+  width: calc(100% - 400px);
+  height: 2px;
+  background-color: white;
+  transform: translateX(-50%);
+  z-index: 1;
 }
 /* carousel */
 .my-carousel {
@@ -81,7 +92,6 @@ background-color: black;
   width: 500px;
   height: 500px;
 }
-
 @media only screen and (max-width: 768px){
   .img-fluid{
     width: 150px;

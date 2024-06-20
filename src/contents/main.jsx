@@ -22,6 +22,7 @@ function Main() {
           </div>
         </div>
       </section>
+      
       <div className="bg-line"></div>
       {/* About Me */}
       <section className="container-fluid bg-black min-vh-100" id="about">
@@ -34,7 +35,7 @@ function Main() {
           </div>
         </div>
         <div className="mt-144px">
-          <div className="row mx-5 ">
+          <div className="row mx-5 pb-5">
             <div className="col-sm-12 col-lg-3 d-flex flex-column gap-3">
               <div>
                 <img src="/assets/teamwork.png" alt="img-fluid" style={{ width: 32, height: 32 }} />
@@ -82,6 +83,7 @@ function Main() {
           </div>
         </div>
       </section>
+
       <div className="bg-line"></div>
       {/* skills */}
       <section className="container-fluid bg-black min-vh-100" id="skills">
@@ -93,7 +95,7 @@ function Main() {
             <p className="mt-95px text-white italic text-xxl fw-900 text-center">Skills that i get from my experience</p>
           </div>
         </div>
-        <div className="pt-5 row gap-4 pb-5 justify-content-center">
+        <div className="py-5 row gap-4 justify-content-center">
             <div className="col-sm-12 kotak">
               <div className="ps-2">
                 <p className="pt-3 text-md fw-700">Intern GLI</p>
@@ -197,6 +199,7 @@ function Main() {
           </div>
         </div>
       </section>
+
       <div className="bg-line"></div>
       {/* education */}
       <section className="container-fluid bg-black min-vh-100" id="education">
@@ -208,29 +211,31 @@ function Main() {
             <p className="mt-5 text-white italic text-xxl fw-900 text-center">My Latest Education</p>
           </div>
         </div>
-        <div className="mt-144px">
-          <div className="row">
-            <div className="col-sm-12  col-md-4 col-lg-4 text-white d-flex align-items-center flex-column">
+        <div className="mt-144px position-relative">
+          <div className="line"></div>
+          <div className="row pb-5">
+            <div className="col-sm-12 col-md-4 col-lg-4 text-white d-flex align-items-center flex-column position-relative">
               <p className="dot"></p>
               <p className="text-xl fw-900">Science major</p>
               <p className="text-md fw-700">SMAN 2 Tangerang Selatan</p>
               <p className="text-md fw-500">2018 - 2021</p>
             </div>
-            <div className="col-sm-12 col-md-4 col-lg-4  text-white d-flex align-items-center flex-column">
+            <div className="col-sm-12 col-md-4 col-lg-4 text-white d-flex align-items-center flex-column position-relative">
               <p className="dot"></p>
               <p className="text-xl fw-900">Information System</p>
               <p className="text-md fw-700">Binus Alam Sutera</p>
               <p className="text-md fw-500">2021 - 2025</p>
             </div>
-            <div className="col-sm-12 col-md-4 col-lg-4  text-white d-flex align-items-center flex-column">
+            <div className="col-sm-12 col-md-4 col-lg-4 text-white d-flex align-items-center flex-column position-relative">
               <p className="dot"></p>
-              <p className="text-xl fw-900">Sofware Engineer</p>
+              <p className="text-xl fw-900">Software Engineer</p>
               <p className="text-md fw-700">Revou Bootcamp</p>
               <p className="text-md fw-500">2024 - 2024</p>
             </div>
           </div>
         </div>
       </section>
+
       <div className="bg-line"></div>
       {/* experience */}
       <section className="container-fluid bg-black min-vh-100" id="experience">
@@ -242,7 +247,7 @@ function Main() {
             <p className="mt-5 text-white italic text-xxl fw-900 text-center">My Experience</p>
           </div>
         </div>
-        <div className="row d-flex mx-5 mt-5">
+        <div className="row d-flex px-5 pt-5 pb-5">
           <div className="col-sm-12 col-lg-6 text-white">
             <p>Ui Engineer Intern, Global Loyalty Indonesia</p>
             <p>February 2024 – August 2024</p>
@@ -276,9 +281,10 @@ function Main() {
         <div className="row">
           <div className="col-12 text-end">
             <div className="me-4 mt-80px btn-secondary">Projects</div>
+            <div className="btn-secondary"><a href="#web" className="text-decoration-none text-black">👉Websites👈</a></div>
           </div>
         </div>
-        <div className="row px-5 pt-5">
+        <div className="row px-5 py-5">
           <div className="col-sm-12 col-md-6 col-lg-6 text-white align-items-center">
             <p className="italic fw-900 text-xxl">ui/ux design project</p>
             <p className="fw-700 text-xl">M-Banking (Clone)</p>
@@ -369,7 +375,7 @@ function Main() {
             <div className="me-4 mt-80px"></div>
           </div>
         </div>
-        <div className="row px-5 pt-5 align-items-center ">
+        <div className="row px-5 py-5 align-items-center ">
           <div className="col-sm-12 col-md-6 col-lg-6 text-white align-items-center">
             <p className="italic fw-900 text-xxl">BookFormer</p>
             <p className="btn-primary">Figma</p>
@@ -516,7 +522,7 @@ function Main() {
             <div className="me-4 mt-80px"></div>
           </div>
         </div>
-        <div className="row px-5 pt-5 align-items-center ">
+        <div className="row px-5 py-5 align-items-center ">
           <div className="col-sm-12 col-md-6 col-lg-6  text-white align-items-center">
             <p className="italic fw-900 text-xxl">Rentable</p>
             <p className="btn-primary">Figma</p>
@@ -603,7 +609,7 @@ function Main() {
             <div className="me-4 mt-80px"></div>
           </div>
         </div>
-        <div className="row px-5 pt-5 align-items-center ">
+        <div className="row px-5 py-5 align-items-center ">
           <div className="col-sm-12 col-md-6 col-lg-6  text-white align-items-center">
             <p className="italic fw-900 text-xxl">Diet.Io</p>
             <p className="btn-primary">Figma</p>
@@ -689,11 +695,16 @@ function Main() {
       </section>
 
     <div className="bg-line"></div>
-      <section className="container-fluid bg-black min-vh-100 ">
-        <div className="row px-5 pt-5">
+      <section className="container-fluid bg-black min-vh-100" id="web">
+      <div className="row">
+          <div className="col-12 text-end">
+            <div className="me-4 mt-80px btn-secondary"><a href="#projects" className="text-decoration-none text-black">👉ui/ux👈</a></div>
+          </div>
+        </div>
+        <div className="row px-5 py-5">
           <div className="col-12 text-start me-4">
             <p className="italic fw-900 text-xxl text-white">Website project</p>
-            <p className="fw-700 text-xl"><a href="https://wethefest.vercel.app/" className="text-decoration-none text-white">Ticks</a>.</p>
+            <p className="fw-700 text-xl"><a href="https://wethefest.vercel.app/" className="text-decoration-none text-white">👉 Ticks 👈</a>.</p>
             <div className="d-flex gap-2">
               <p className="btn-primary">HTML</p>
               <p className="btn-primary">CSS</p>
@@ -761,7 +772,7 @@ function Main() {
       <section className="container-fluid bg-black min-vh-100 ">
         <div className="row px-5 pt-5">
           <div className="col-12 text-start me-4">
-            <p className="fw-900 text-xxl"><a href="https://module-2-umartsaqib.vercel.app/" className="text-decoration-none text-white">Supercats</a></p>
+            <p className="fw-900 text-xxl"><a href="https://module-2-umartsaqib.vercel.app/" className="text-decoration-none text-white">👉 Supercats 👈</a></p>
             <div className="d-flex gap-2">
               <p className="btn-primary">HTML</p>
               <p className="btn-primary">CSS</p>
@@ -811,7 +822,7 @@ function Main() {
       <section className="container-fluid bg-black min-vh-100 ">
         <div className="row px-5 pt-5">
           <div className="col-12 text-start me-4">
-            <p className="fw-900 text-xxl"><a href="https://module-5-umartsaqib-gjdw.vercel.app/" className="text-decoration-none text-white">Pokemon</a></p>
+            <p className="fw-900 text-xxl"><a href="https://module-5-umartsaqib-gjdw.vercel.app/" className="text-decoration-none text-white">👉 Pokemon 👈</a></p>
             <div className="d-flex gap-2">
               <p className="btn-primary">HTML</p>
               <p className="btn-primary">CSS</p>
@@ -861,7 +872,7 @@ function Main() {
       <section className="container-fluid bg-black min-vh-100 ">
         <div className="row px-5 pt-5">
           <div className="col-12 text-start me-4">
-            <p className="fw-900 text-xxl"><a href="https://career-search-project-revou.vercel.app/" className="text-decoration-none text-white">CareerSearch</a></p>
+            <p className="fw-900 text-xxl"><a href="https://career-search-project-revou.vercel.app/" className="text-decoration-none text-white">👉 CareerSearch 👈</a></p>
             <div className="d-flex gap-2">
               <p className="btn-primary">HTML</p>
               <p className="btn-primary">CSS</p>
@@ -937,22 +948,22 @@ function Main() {
           </div>
         </div>
         <div className="mt-144px">
-          <div className="row mx-5 ">
+          <div className="row mx-5 pb-5">
             <div className="col-sm-12 col-lg-3 d-flex gap-2 justify-content-center">
               <i className="bi bi-whatsapp text-white"></i>
-              <p className="text-white">+6281290622003</p>
+              <p><a href="https://wa.me/6281290622003" className="text-decoration-none text-white ">+6281290622003</a></p>
             </div>
             <div className="col-sm-12 col-lg-3 d-flex gap-2 justify-content-center">
               <i className="bi bi-envelope-fill text-white"></i>
-              <p className="text-white">Umartsqb@gmail.com</p>
+              <p><a href="mailto:umartsqb@gmail.com" className="text-decoration-none text-white ">Umartsqb@gmail.com</a></p>
             </div>
             <div className="col-sm-12 col-lg-3 d-flex gap-2 justify-content-center">
               <i className="bi bi-linkedin text-white"></i>
-              <p className="text-white">muhammadumartsaqib</p>
+              <p><a href="www.linkedin.com/in/muhammadumartsaqib" className="text-decoration-none text-white ">muhammadumartsaqib</a></p>
             </div>
             <div className="col-sm-12 col-lg-3 d-flex gap-2 justify-content-center">
               <i className="bi bi-github text-white"></i>
-              <p className="text-white">Umartsaqib</p>
+              <p><a href="https://github.com/Umartsaqib" className="text-decoration-none text-white ">Umartsaqib</a></p>
             </div>
           </div>
         </div>
