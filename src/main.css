@@ -1,0 +1,94 @@
+.bg-main{
+  background-image: url('/public/assets/netflix.png');
+}
+.bg-line{
+  background-color: #505050;
+  width: 100%;
+  height: 5px;
+}
+.bg-black{
+background-color: black;
+}
+.btn-primary{
+  background-color: #FB0707;
+  border-radius: 8px;
+  border: none;
+  color: #ffffff;
+  padding: 8px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
+.btn-secondary{
+  background-color: #FFFFFF;
+  border-radius: 8px;
+  border: 1px solid #000000;
+  color: #000000;
+  padding: 8px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
+/* skills section */
+.kotak {
+  transition: 0.3s;
+  height: auto;
+  width: 350px;
+  border-radius: 8px;
+  background-color: transparent;
+  border: 1px solid #ffffff;
+  color: white;
+}
+.kotak:hover {
+  box-shadow: 0 8px 16px 0 #FB0707;
+}
+.hr{
+  color: #ffffff;
+}
+
+/* education */
+.dot{
+  height: 40px;
+  width: 40px;
+  background-color: #FB0707;
+  border-radius: 50%;
+  display: inline-block;
+}
+/* carousel */
+.my-carousel {
+  position: relative;
+  width: fit-content;
+}
+.carousel-control-prev {
+  left: -70px;
+}
+.carousel-control-next {
+  right: -70px;
+}
+.carousel-indicators{
+  bottom: -50px; 
+}
+/* image */
+.img-fluid{
+  width: 250px;
+  height: 500px;
+}
+.img-fluid2{
+  width: 500px;
+  height: 500px;
+}
+
+@media only screen and (max-width: 768px){
+  .img-fluid{
+    width: 150px;
+    height: 300px;
+  }
+  .img-fluid2{
+    width: 200px;
+    height: 200px;
+  }
+}

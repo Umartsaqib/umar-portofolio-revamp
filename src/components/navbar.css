@@ -1,0 +1,57 @@
+
+header {
+  width: 100%;
+  z-index: 1000;
+  transition: top 0.3s;
+}
+.sticky {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: transparent;
+}
+.nav {
+  color: #ffffff;
+  text-decoration: none;
+  gap: 16px;
+}
+.navi {
+  color: #ffffff;
+  text-decoration: none;
+  gap: 24px;
+}
+.nav:active {
+  color: #FB0707;
+}
+.nav:hover {
+  color: #FB0707;
+  font-weight: bold;
+}
+.nav.active {
+  color: #FB0707;
+  font-weight: bold;
+}
+.navi:active {
+  color: #ffffff;
+}
+.navi:hover {
+  color: #ffffff !important;
+  font-weight: bold;
+}
+.navi.active {
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 20px;
+}
+.navbar-toggler {
+  border: none;
+}
+.navbar-toggler-icon {
+  color: white;
+}
+/* Additional styles for offcanvas */
+.offcanvas {
+  background-color: #333;
+  color: white;
+}
