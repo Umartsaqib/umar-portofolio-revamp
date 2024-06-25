@@ -102,3 +102,26 @@ background-color: black;
     height: 200px;
   }
 }
+
+.test{
+  animation: movetxt 5s ease-in-out infinite;
+  transition: all .5s ease-in-out;
+}
+
+@keyframes movetxt {
+  0%{
+    transform: translateY(0px);
+  }
+  25%{
+    transform: translateY(20px);
+  }
+  50%{
+    transform: translateY(0px);
+  }
+  75%{
+    transform: translateY(-20px);
+  }
+  100%{
+    transform: translateY(0px);
+  }
+}
