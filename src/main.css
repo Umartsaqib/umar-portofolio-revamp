@@ -96,6 +96,9 @@ background-color: black;
   .btn-primary{
     font-size: 14px;
   }
+  .btn-secondary{
+    font-size: 14px;
+  }
   .img-fluid{
     width: 150px;
     height: 300px;
