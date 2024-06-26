@@ -93,6 +93,9 @@ background-color: black;
   height: 500px;
 }
 @media only screen and (max-width: 768px){
+  .btn-primary{
+    font-size: 14px;
+  }
   .img-fluid{
     width: 150px;
     height: 300px;
