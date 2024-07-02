@@ -24,7 +24,7 @@ function Main() {
             <h2 className="mt-1 fw-bold text-white">Muhammad Umar Tsaqib</h2>
             <p className="mb-5 italic text-white">Always want to improve skills and always want to learn something new</p>
             <div className="col-12 d-flex gap-4">
-              <div className="btn-secondary"><a href="" className="text-decoration-none text-white"></a>View CV</div>
+              <div className="btn-secondary"><a href="https://docs.google.com/document/d/1YMVM4rSwQHsIyysNyFpnrQpZu4t_SxRcNv6zpauwLnw/edit?usp=sharing" className="text-decoration-none text-black">View CV</a></div>
               <div className="btn-primary"><a href="#about" className="text-decoration-none text-white">Get Started</a></div>
             </div>
           </div>
