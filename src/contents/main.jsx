@@ -299,15 +299,16 @@ function Main() {
             <p className="btn-primary">Figma</p>
             <div className="text-white my-4">
               <p>Background</p>
-              <p>project ini merupakan sebuah tugas dari kampus dimana projek ini dikerjakan secara berkelompok yang dimana kita diminta untuk mengclone design aplikasi yang sudah ada</p>
+              <p>This project is an assignment from the campus where we are working on it in groups, tasked with cloning the design of an existing application.
+              </p>
             </div>
             <div className="text-white my-4">
               <p>Criteria</p>
               <p><ul>
-                <li>mampu mendesain ui</li>
-                <li>cloning apps</li>
-                <li>membuat design semirip mungkin</li>
-                <li>design yang bewarna</li>
+                <li>Able to design UI</li>
+                <li>Cloning apps</li>
+                <li>Creating designs as close as possible</li>
+                <li>Colorful design</li>
                 </ul></p>
             </div>
           </div>
@@ -395,20 +396,21 @@ function Main() {
             <p className="btn-primary">Figma</p>
             <div className="text-white my-4">
               <p>Background</p>
-              <p>project ini merupakan project kuliah yang dilakukan berkelompok dimana kami diminta untuk membuat sebuah aplikasi dimana kami harus membuat sebuah aplikasi jual beli buku secara online dengan fitur-fitur yang di berikan</p>
+              <p>This project is a group project for our college course where we are required to create an application for buying and selling books online. We have to develop an app with the given features for online book transactions.
+              </p>
             </div>
             <div className="text-white my-4">
               <p>Criteria</p>
               <p><ul>
-                <li>membuat 4 menu (home,explore,activity dan profile)</li>
-                <li>membuat list - list buku yang dijual</li>
-                <li>membuat searchbar</li>
-                <li>membuat kategori buku</li>
-                <li>membuat history pembelian</li>
-                <li>membuat review product</li>
-                <li>membuat halaman pembayaran</li>
-                <li>membuat halaman keranjang</li>
-                <li>membuat halaman signin signup</li>
+                <li>Create 4 menus (Home, Explore, Activity, and Profile)</li>
+                <li>Create lists of books for sale</li>
+                <li>Create a search bar</li>
+                <li>Create book categories</li>
+                <li>Create purchase history</li>
+                <li>Create product reviews</li>
+                <li>Create a payment page</li>
+                <li>Create a shopping cart page</li>
+                <li>Create sign-in/sign-up pages</li>
                 </ul></p>
             </div>
           </div>
@@ -552,14 +554,15 @@ function Main() {
             <p className="btn-primary">Figma</p>
             <div className="text-white my-4">
               <p>Background</p>
-              <p>project ini juga merupakan tugas kelompok dari kuliah dimana kami diminta untuk membuat sebuah aplikasi penyewaan motor yang dimana para pengguna bisa menyewa motor dan mereka bisa menyewakan motor secara online dengan mudah project ini merupakan desaign pertama kami</p>
+              <p>This project is also a group assignment from our college course where we are tasked with creating a motorcycle rental application. Users can rent motorcycles and also list their own motorcycles for rent online easily. This project is our first design iteration.
+              </p>
             </div>
             <div className="text-white my-4">
             <p>Criteria</p>
               <p><ul>
-                <li>membuat list kendaraan yang akan disewa</li>
-                <li>membuat detail kendaraan serta membuat sebuah quantity untuk berapa kendaraan yang ingin disewakan</li>
-                <li>bisa melacak keberadaan motor</li>
+                <li>Create a list of vehicles available for rent</li>
+                <li>Create detailed information about the vehicles and incorporate a quantity option for how many vehicles to rent</li>
+                <li>Ability to track the location of the motorcycles</li>
                 </ul></p>
             </div>
           </div>
@@ -643,18 +646,19 @@ function Main() {
             <p className="btn-primary">Figma</p>
             <div className="text-white my-4">
               <p>Background</p>
-              <p>project ini merupakan tugas kuliah yang dimana dilakukan sendiri oleh saya, saya diminta untuk membuat sebuah aplikasi diet untuk memudahkan pengguna menurunkan berat badan dengan menggunakan aplikasi diet.io ini</p>
+              <p>This project is a college assignment that I am doing on my own. I am asked to create a diet application to help users lose weight using the diet.io application.
+              </p>
             </div>
             <div className="text-white my-4">
               <p>Criteria</p>
                 <p>
                   <ul>
-                  <li>membuat logo apps</li>
-                  <li>membuat 5 menu (home,statisik data,thread,menu makanan dan profil)</li>
-                  <li>membuat halaman signin dan signup</li>
-                  <li>membuat menu detail makanan</li>
-                  <li>membuat sebuah halaman thread supaya pengguna bisa saling memberikan saran dan menshare progress diet mereka</li>
-                  <li>membuat gps untuk mengetahui lokasi perusahaan, membuat contact customer service dan menyediakan email perusahaan</li>
+                  <li>Create an app logo</li>
+                  <li>Create 5 menus (Home, Data Statistics, Threads, Food Menu, and Profile)</li>
+                  <li>Create signin and signup pages</li>
+                  <li>Create a detailed food menu</li>
+                  <li>Create a thread page to allow users to give advice and share their diet progress</li>
+                  <li>Implement GPS to locate the company, provide customer service contact, and offer company email address</li>
                   </ul>
                 </p>
             </div>
@@ -792,7 +796,8 @@ function Main() {
             <div className="col-sm-12 col-md-12 col-lg-6 " data-aos="fade-up">
               <div className="text-white my-4">
                 <p>Background</p>
-                <p>Ticks merupakan proyek ujian akhir dari kampus yang dikerjakan oleh dua orang. Dalam proyek ini, kami diberikan kasus proyek dan diminta untuk memenuhi kriteria yang ditetapkan oleh kampus.</p>
+                <p>"Ticks" is the final exam project from the campus that is worked on by two people. In this project, we are given a project case and asked to meet the criteria set by the campus.
+                </p>
               </div>
             </div>
             <div className="col-sm-12 col-md-12 col-lg-6 " data-aos="fade-up">
@@ -800,18 +805,17 @@ function Main() {
               <p>Criteria</p>
                 <p>
                   <ul>
-                  <li>Ticks ingin situs web perusahaannya menampilkan penjualan tiket konser global.</li>
-                  <li>Ticks menginginkan situs web yang menarik, fungsional, dan responsif. Gunakan 5 properti CSS, JavaScript, meta viewport tag, dan aturan media screen untuk layar di bawah 800px.</li>
-                  <li>Situs web terdiri dari lima halaman utama:</li>
-                  <li>Home: Tampilkan tiket terlaris dan rekomendasi, serta image slider dengan JQuery.
-                    <br />
-                      Register: Formulir pendaftaran dengan validasi JavaScript (tanpa regex).
-                      <br />
-                      Tickets: Kartu konser dengan nama, poster, tanggal, dan waktu. Dibagi menjadi Tiket Mendatang dan Berlangsung.
-                      <br />
-                      Ticket Detail: Informasi detail tiket dengan opsi pembelian.
-                      <br />
-                      Promotions: Kartu promosi dengan judul, periode validitas, dan opsi penggunaan promo. Dibagi menjadi Promo Tersedia dan Mendatang.</li>
+                  <li>Ticks wants their company website to display global concert ticket sales.</li>
+                  <li>Ticks wants a website that is attractive, functional, and responsive. Use 5 CSS properties, JavaScript, meta viewport tag, and media screen rules for screens below 800px.</li>
+                  <li>The website consists of five main pages:
+                    <ul>
+                      <li>Home: Display best-selling tickets and recommendations, as well as an image slider with JQuery.</li>
+                      <li>Register: Registration form with JavaScript validation (without regex).</li>
+                      <li>Tickets: Concert cards with name, poster, date, and time. Divided into Upcoming Tickets and Ongoing Tickets.</li>
+                      <li>Ticket Detail: Detailed ticket information with purchase options.</li>
+                      <li>Promotions: Promotion cards with title, validity period, and promo usage options. Divided into Available Promos and Upcoming Promos.</li>
+                    </ul>
+                  </li>
                   </ul>
                 </p>
               </div>
@@ -860,7 +864,8 @@ function Main() {
             <div className="col-sm-12 col-md-12 col-lg-6 " data-aos="fade-up">
               <div className="text-white my-4">
                 <p>Background</p>
-                <p>project ini merupakan tugas dari revou bootcamp yang dimana kami diminta untuk membikin sebuah website tentang pecinta hewan yang dimana kami di minta untuk membuat website dengan kriteria yang telah diberikan dimana di dalam website juga terdapat sebuah form untuk para pecinta kucing mengisi data diri mereka</p>
+                <p>This project is an assignment from the RevoU Bootcamp where we are asked to create a website about animal lovers, specifically focusing on cat lovers. We are required to make the website based on the given criteria, which includes creating a form for cat lovers to fill in their personal information on the website.
+                </p>
               </div>
             </div>
             <div className="col-sm-12 col-md-12 col-lg-6 " data-aos="fade-up">
@@ -868,16 +873,16 @@ function Main() {
               <p>Criteria</p>
                 <p>
                   <ul>
-                  <li>membuat sebuah navbar yang sticky</li>
-                  <li>membuat text animation</li>
-                  <li>membuat display grid</li>
-                  <li>membuat halaman yang responsive</li>
-                  <li>membuat text dan gambar berada samping2an</li>
-                  <li>memasukan video kedalam website</li>
-                  <li>membuat carousel</li>
-                  <li>membuat form</li>
-                  <li>membuat validasi terhadap form</li>
-                  <li>membuat @copyright footer</li>
+                  <li>Create a sticky navbar</li>
+                  <li>Create text animation</li>
+                  <li>Implement display grid</li>
+                  <li>Create a responsive webpage</li>
+                  <li>Position text and images side by side</li>
+                  <li>Embed a video into the website</li>
+                  <li>Create a carousel</li>
+                  <li>Create a form</li>
+                  <li>Add validation to the form</li>
+                  <li>Add a @copyright footer</li>
                   </ul>
                 </p>
               </div>
@@ -927,7 +932,8 @@ function Main() {
               <div className="text-white my-4">
                 <p>Background</p>
                 <p>
-                Project ini merupakan tugas dari RevoU Bootcamp yang mengharuskan kami menerapkan CSS dasar untuk menata situs web dan menambahkan fungsionalitas JavaScript sederhana untuk meningkatkan interaksi pengguna. Kami juga diminta membuat formulir fungsional di situs web yang mencakup tipe input (teks, textarea), tombol submit, dan setidaknya satu dari tombol radio, checkbox, atau dropdown select. Formulir tersebut harus ditata agar selaras dengan desain situs web, dan akhirnya aplikasi kami harus dideploy ke Netlify.</p>
+                This project is an assignment from the RevoU Bootcamp that requires us to apply basic CSS to structure the website and add simple JavaScript functionality to enhance user interaction. We are also required to create a functional form on the website that includes input types (text, textarea), a submit button, and at least one of radio buttons, checkboxes, or dropdown select. The form should be styled to align with the website design, and finally, our application must be deployed to Netlify.
+                </p>
               </div>
             </div>
             <div className="col-sm-12 col-md-12 col-lg-6 " data-aos="fade-up">
@@ -935,34 +941,34 @@ function Main() {
               <p>Criteria</p>
                 <p>
                   <ul>
-                    <li> TSX dan Komponen:
-                      <br />
-                        a. Susun aplikasi ke dalam komponen-komponen modular.
-                        <br />
-                        b. Gunakan sintaks TSX untuk merender elemen UI
-                        </li>
-                    <li>Hooks, State, dan Props:
-                      <br />
-                        a. Implementasikan minimal dua komponen fungsional yang menggunakan props untuk mengirimkan data.
-                        <br />
-                        b. Manfaatkan state untuk mengelola data dinamis dalam aplikasi.
-                        <br />
-                        c. Integrasikan hooks seperti useState dan useEffect bila diperlukan.
-                        </li>
-                    <li>Formulir dan Kejadian:
-                      <br />
-                          a. Implementasikan formulir untuk menangkap input pengguna.
-                          <br />
-                          b. Tangani peristiwa pengiriman formulir (form submission events).
-                          <br />
-                          c. Validasi dan kelola data formulir menggunakan state React.
-                          </li>
-                    <li>React Router:
-                      <br />
-                          a. Manfaatkan React Router untuk navigasi dalam aplikasi.
-                          <br />
-                          b. Atur beberapa rute (routes) ke komponen/halaman yang berbeda.
-                          </li>
+                  <li>TSX and Components:
+                    <br />
+                    a. Organize the application into modular components.
+                    <br />
+                    b. Use TSX syntax to render UI elements.
+                  </li>
+                  <li>Hooks, State, and Props:
+                    <br />
+                    a. Implement at least two functional components that use props to pass data.
+                    <br />
+                    b. Utilize state to manage dynamic data within the application.
+                    <br />
+                    c. Integrate hooks such as useState and useEffect as needed.
+                  </li>
+                  <li>Forms and Events:
+                    <br />
+                    a. Implement a form to capture user input.
+                    <br />
+                    b. Handle form submission events.
+                    <br />
+                    c. Validate and manage form data using React state.
+                  </li>
+                  <li>React Router:
+                    <br />
+                    a. Utilize React Router for navigation within the application.
+                    <br />
+                    b. Set up multiple routes to different components/pages.
+                  </li>
                   </ul>
                 </p>
               </div>
@@ -1029,7 +1035,8 @@ function Main() {
             <div className="col-sm-12 col-md-12 col-lg-6 " data-aos="fade-up">
               <div className="text-white my-4">
                 <p>Background</p>
-                <p>project ini merupakan project akhir dari faculty revou yang dilakukan secara kelompok dengan berisikan 4 orang dimana saya menjadi seorang front end developer untuk mengerjakan project ini, website ini dibikin untuk membantu para pencari kerja dengan mudah, tetapi situs web ini tidak dapat dijalankan lagi karena kami menggunakan railwat dan kami harus membayar bulanan.</p>
+                <p>This project is the final project of the faculty revou carried out in groups consisting of 4 people where I am one of the front end developers to work on this project. This website was created to help job seekers easily, but the website can no longer be accessed because we used railwat and we have to pay monthly.
+                </p>
               </div>
             </div>
             <div className="col-sm-12 col-md-12 col-lg-6 " data-aos="fade-up">
@@ -1037,7 +1044,8 @@ function Main() {
               <p>Criteria</p>
                 <p>
                   <ul>
-                  <li>berikut merupakan kriteria2 yang dibutuhkan <a href="https://docs.google.com/document/d/1txD_Y7xh9SDlOH2OF1I4LGOCahq9uxE5pID9f7q2-pA/edit" className="text-decoration-none text-white">👉 kriteria 👈</a></li>
+                  <li>Here are the criteria that are needed.
+                  <a href="https://docs.google.com/document/d/1txD_Y7xh9SDlOH2OF1I4LGOCahq9uxE5pID9f7q2-pA/edit" className="text-decoration-none text-white">👉 criteria 👈</a></li>
                   </ul>
                 </p>
               </div>
